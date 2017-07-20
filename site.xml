@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/MCPluginDebuggerforEclipse_1.0.0.201707141339.jar" id="MCPluginDebuggerforEclipse" version="1.0.0.201707141339">
+   <feature url="features/MCPluginDebugger_1.2.0.jar" id="MCPluginDebugger" version="1.2">
       <category name="debug"/>
    </feature>
    <category-def name="debug" label="Debug"/>
