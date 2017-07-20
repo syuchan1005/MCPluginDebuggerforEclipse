@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: MCPluginDebugger
 Bundle-SymbolicName: com.github.syuchan1005.mcplugindebugger;singleton:=true
-Bundle-Version: 1.0.0.qualifier
+Bundle-Version: 1.2
 Bundle-Vendor: syuchan1005
 Require-Bundle: org.eclipse.core.runtime,
   org.eclipse.ui

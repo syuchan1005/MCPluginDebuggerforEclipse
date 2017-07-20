@@ -11,7 +11,7 @@
       <view
             name="MCDebugConsole"
             inject="true"
-            icon="icons/sample.png"
+            icon="icons/mcPluginDebugger.png"
             category="com.github.syuchan1005.mcplugindebugger"
             class="com.github.syuchan1005.mcplugindebugger.views.DebugConsoleViewFactory"
             id="com.github.syuchan1005.mcplugindebugger.views.DebugConsoleViewFactory">
