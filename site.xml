@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
-   <feature url="features/MCPluginDebugger_1.2.0.jar" id="MCPluginDebugger" version="1.2">
-      <category name="debug"/>
-   </feature>
-   <category-def name="debug" label="Debug"/>
+   <feature url="features/MCPluginDebugger_1.2.0.jar" id="MCPluginDebugger" version="1.2"/>
 </site>
